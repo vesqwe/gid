@@ -1,0 +1,126 @@
+.header {
+    background: (44, 44, 44)
+}
+.nav{
+    color: crimson;
+} 
+.hero-block
+{
+    background-color: rgb(114, 114, 114);
+    padding: 10px;
+}
+.hero-block__title {
+    font-family: "Oswald", sans-serif;  
+    font-size: 30px;
+}
+.hero-block__title1 {
+font-size: 25px;
+font-family: "LXGW WenKai Mono TC", monospace;
+font-weight: 400;
+font-style: normal;
+}
+
+body {
+    background-color: gray;
+}
+.nav__list {
+    display: flex;
+    list-style:none
+}
+.Take__item {
+margin-right: 200px;
+margin-bottom: 60px;
+font-family: "Poetsen One", sans-serif;
+color: rgb(187, 255, 0);
+background-color: rgb(58, 58, 58);
+border-radius: 15px;
+padding: 2px;
+font-stretch: 120%;
+white-space: nowrap;
+font-size: 25px;
+background-size: 50px 50px;
+}
+.video
+{
+    background-color:rgb(88, 88, 88);
+}
+.video__title
+{
+    text-align: center;
+    color: rgb(228, 228, 228);
+    font-family: Nico Moji;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+    margin-top: 0px;
+    font-family: "Poetsen One"
+}
+.hero-block__img
+{
+    width: 500px;
+}
+.container__video {
+padding: 25px 0 98px;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto; 
+}
+.video__iframe {
+    width: 100%;
+    ;height: 568px;
+    border: 50px solid wheat;
+    border-radius: 5%;
+    box-sizing: border-box;
+}
+.gallery__img {
+    width: 100%;
+}
+.gallery__item {
+    width: 30%
+}
+.gallery__list {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+.gallery__item {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.gallery__title {
+    text-align: center;
+}
+.footer__list {
+    display: flex;
+    list-style: none;
+}
+.footer__item {
+    margin-right: 20px;
+}
+.container__footer{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: darkslategray;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+.header__tytle {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+      
+
+ 
+        
+
+      
